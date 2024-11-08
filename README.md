@@ -10,7 +10,7 @@ The assessment for Section 2 involves correcting, enhancing, and developing Pyth
 2. **Submission Instructions**: After completing Section 1 and Section 2 (Exercises 1-3), please submit your work in the Slack channel. You can provide either links to your work or directly upload the submissions in the requested format. Ensure that this is done prior to your interview date. Your interviewers will confirm receipt of your submissions.
 
 ### Live Interview Setup
-3. **Interview Day Provision**: On the day of your interview, a laptop and a private room will be made available to you. All necessary libraries and packages required for the task will be pre-installed on the laptop. You will have 30 minutes to complete Exercise 4 during the live interview. After completion, you will present your working code to the interviewers.
+3. **Interview Day Provision**: On the day of your technical assessment interview, the last 30 minutes will be dedicated to live coding Exercise 4. This is an interactive session where you will implement the solution while explaining your thinking, design choices, and technical decisions to the interviewers. You are encouraged to talk through your approach as you code, discussing trade-offs and justifying your implementation decisions.
 
 ## Exercise 1: Correcting and Enhancing the Loss Calculation Script
 
