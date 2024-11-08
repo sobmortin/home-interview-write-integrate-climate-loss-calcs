@@ -56,7 +56,7 @@ The script should output the individual and total estimated losses for all prope
 ## Exercise 3: Scaling the Loss Calculation Model
 
 ### Task Description
-Provide a written explanation of how you would scale your Python script from Exercise 2 to efficiently handle a dataset of 1,000,000 buildings.
+Provide a written explanation of how you would scale your Python script from Exercise 2 to efficiently handle a dataset of 100,000,000 buildings.
 
 ### Requirements
 - **Scalability Analysis**: Evaluate the current script's performance with a larger dataset.
