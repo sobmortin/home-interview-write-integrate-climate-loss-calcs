@@ -1,4 +1,4 @@
-# Staff (Full Stack) Engineer Assessment
+# Senior / Staff (Full Stack) Engineer Assessment
 
 ## Overview
 The assessment for Section 2 involves correcting, enhancing, and developing Python scripts to calculate projected financial losses for buildings based on provided data about climate hazards. You are expected to complete Exercises 1, 2, and 3 at home. Exercise 4 is a live interview task.
